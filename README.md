@@ -40,13 +40,13 @@ Eu tentei descrever a funcionalidade de forma mais simples possível, mas se tiv
 1. Clone este repositório:
 
 ```shell
-$ git clone 
+$ git clone https://github.com/zSantz/caixa-24horas.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```shell
-$ cd     
+$ cd caixa-24horas   
 ```
 
 3. Execute o arquivo Python:
